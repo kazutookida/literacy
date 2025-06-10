@@ -1,0 +1,14 @@
+ body {
+            background-color: black;
+            color: gold;
+            text-align: center;
+        }
+        header {
+            background-color: red;
+            padding: 20px;
+            font-size: 24px;
+            font-weight: bold;
+        }
+        .content {
+            padding: 20px;
+        }
